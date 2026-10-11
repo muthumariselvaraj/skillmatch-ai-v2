@@ -1,0 +1,220 @@
+{
+ "users": [
+  {
+   "id": "4c1f0f403e02",
+   "role": "manager",
+   "name": "Devikala S",
+   "email": "devikalaselvaraj24@gmail.com",
+   "pw": "7c1ddf17d58cbb71:ac6a87712669f101ab0e8c3990a0480c1914ae25913daaa00cb431397275d056",
+   "createdAt": 1791692120877,
+   "company": {
+    "name": "DK private limit",
+    "location": "Chennai, DLF opposite .",
+    "details": ""
+   }
+  },
+  {
+   "id": "921d9f10313f",
+   "role": "worker",
+   "name": "Muthumari S",
+   "email": "muthumariselvaraj2007@gmail.com",
+   "pw": "b7963db1a318b792:f44f08f920984243c7723a92e99b525fcbbd2c4080582b4e320b7d9ff0c0e974",
+   "createdAt": 1791692213416,
+   "profile": {
+    "education": "B.E computer science",
+    "college": "KSR college of engineering, tiruchengode.",
+    "skills": [
+     "java",
+     "javscript",
+     "html",
+     "css",
+     "python"
+    ],
+    "otherSkills": "communication, team work",
+    "experience": "Fresher",
+    "role": "Data analytics, full stack developer",
+    "location": "3/386, housing board , sattur,virudhunagar(Dt)",
+    "prefLocation": "",
+    "resumeName": "resume.pdf",
+    "resumeFile": "921d9f10313f-1791692379160.pdf",
+    "resumeText": "                                                                                                                                                                                                                        "
+   }
+  }
+ ],
+ "jobs": [
+  {
+   "id": "64546ddaeb1e",
+   "managerId": "4c1f0f403e02",
+   "company": "DK private limit",
+   "title": "full stack developer",
+   "location": "Chennai, DLF opposite .",
+   "type": "Full-Time",
+   "experience": "Fresher",
+   "skills": [
+    "python",
+    "java",
+    "css",
+    "html"
+   ],
+   "preferred": [],
+   "description": "We are looking for a Full Stack Developer to build and maintain web applications. The candidate should have knowledge of HTML, CSS, JavaScript, frontend development, backend programming, and databases. Experience with React, Node.js, and SQL is an advantage. Freshers with good problem-solving skills and an interest in web development can apply.",
+   "minQual": "B.E/B.tech",
+   "openings": 3,
+   "deadline": "2026-10-15",
+   "filled": 1,
+   "status": "active",
+   "postedAt": 1791692523369
+  }
+ ],
+ "apps": [
+  {
+   "id": "614f91d0d5f4",
+   "jobId": "64546ddaeb1e",
+   "workerId": "921d9f10313f",
+   "status": "Offer Accepted",
+   "createdAt": 1791692589646,
+   "history": [
+    {
+     "status": "Applied",
+     "at": 1791692589646,
+     "by": "Muthumari S"
+    },
+    {
+     "status": "Under Review",
+     "at": 1791692677427,
+     "by": "Devikala S"
+    },
+    {
+     "status": "Selected",
+     "at": 1791692685405,
+     "by": "Devikala S"
+    },
+    {
+     "status": "Offer Sent",
+     "at": 1791692771739,
+     "by": "Devikala S"
+    },
+    {
+     "status": "Offer Accepted",
+     "at": 1791692880020,
+     "by": "Muthumari S"
+    }
+   ],
+   "match": {
+    "score": 95,
+    "matched": [
+     "python",
+     "java",
+     "css",
+     "html"
+    ],
+    "missing": [],
+    "prefMatched": [],
+    "prefMissing": [],
+    "explanation": "4 of 4 required skills matched; experience meets the requirement; qualification not found in education."
+   }
+  }
+ ],
+ "offers": [
+  {
+   "id": "74b81a2795f3",
+   "appId": "614f91d0d5f4",
+   "version": 1,
+   "fields": {
+    "type": "Full-Time",
+    "location": "Chennai, DLF opposite .",
+    "startDate": "2026-10-25",
+    "salary": "10LPA",
+    "reporting": "",
+    "deadline": "2026-10-20",
+    "terms": "This offer is subject to satisfactory verification of the details in your resume and application.\nEmployment is subject to the company's policies, which will be shared when you join.",
+    "signatory": "Devikala S"
+   },
+   "createdAt": 1791692771739,
+   "status": "accepted",
+   "reply": "Thankyou for our wonderful opportunity mam. im grateful for you!"
+  }
+ ],
+ "messages": [
+  {
+   "id": "0566f48b1d8e",
+   "appId": "614f91d0d5f4",
+   "from": "921d9f10313f",
+   "text": "Thankyou for our wonderful opportunity mam. im grateful for you!",
+   "at": 1791692880020
+  },
+  {
+   "id": "1d6f1fb273df",
+   "appId": "614f91d0d5f4",
+   "from": "4c1f0f403e02",
+   "text": "welcom to our DK private limit.",
+   "at": 1791692975082
+  },
+  {
+   "id": "88931f258b80",
+   "appId": "614f91d0d5f4",
+   "from": "921d9f10313f",
+   "text": "yeah mam",
+   "at": 1791693368134
+  }
+ ],
+ "notes": [
+  {
+   "id": "591a2ebb528a",
+   "userId": "921d9f10313f",
+   "text": "Your application for full stack developer at DK private limit was submitted.",
+   "at": 1791692589646,
+   "read": false
+  },
+  {
+   "id": "d8e92fae19a3",
+   "userId": "4c1f0f403e02",
+   "text": "Muthumari S applied for full stack developer",
+   "at": 1791692589646,
+   "read": true
+  },
+  {
+   "id": "a3a16e2f5934",
+   "userId": "921d9f10313f",
+   "text": "Your application for full stack developer is now under review.",
+   "at": 1791692677427,
+   "read": false
+  },
+  {
+   "id": "08c50792b9c2",
+   "userId": "921d9f10313f",
+   "text": "Congratulations! You were selected for full stack developer at DK private limit. An offer letter will follow.",
+   "at": 1791692685406,
+   "read": false
+  },
+  {
+   "id": "d629af98b830",
+   "userId": "921d9f10313f",
+   "text": "An offer letter for full stack developer at DK private limit is waiting in Offer Letters.",
+   "at": 1791692771740,
+   "read": false
+  },
+  {
+   "id": "64effcca0800",
+   "userId": "4c1f0f403e02",
+   "text": "Muthumari S accepted the offer for full stack developer: \"Thankyou for our wonderful opportunity mam. im grateful for you!\"",
+   "at": 1791692880020,
+   "read": true
+  },
+  {
+   "id": "3a4638f029e2",
+   "userId": "921d9f10313f",
+   "text": "New message from Devikala S about full stack developer",
+   "at": 1791692975082,
+   "read": false
+  },
+  {
+   "id": "482065ad50a1",
+   "userId": "4c1f0f403e02",
+   "text": "New message from Muthumari S about full stack developer",
+   "at": 1791693368134,
+   "read": true
+  }
+ ],
+ "resets": []
+}

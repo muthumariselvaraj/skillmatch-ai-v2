@@ -1,0 +1,12 @@
+{
+  "name": "skillmatch-ai",
+  "version": "2.0.0",
+  "description": "AI-powered recruitment and job matching platform",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node seed.js",
+    "test": "node test/e2e.js"
+  },
+  "engines": { "node": ">=18" }
+}
